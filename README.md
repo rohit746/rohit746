@@ -23,7 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -38,5 +37,4 @@
 
 <p align="center">
 <a href="mailto:rjjadhav746@gmail.com"><img src="https://img.shields.io/badge/-rjjadhav746@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/darkgraypaint"><img src="https://img.shields.io/badge/-darkgraypaint/-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
